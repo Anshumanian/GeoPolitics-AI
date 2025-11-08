@@ -137,3 +137,4 @@ This project is licensed under the MIT License.
 ## Disclaimer
 
 This application is for educational and research purposes. Geopolitical analysis should be verified with multiple sources and official intelligence reports.
+live preview:-https://stellar-dango-fcd2e8.netlify.app/
